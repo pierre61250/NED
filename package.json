@@ -1,0 +1,23 @@
+{
+  "name": "ned",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Toolkit qui permet de setup son projet (Node / Express / Docker)",
+  "main": "index.js",
+  "scripts": {
+    "setup": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pierre61250/NED.git"
+  },
+  "keywords": [
+    "toolkit"
+  ],
+  "author": "Pierre COLLET",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pierre61250/NED/issues"
+  },
+  "homepage": "https://github.com/pierre61250/NED#readme"
+}

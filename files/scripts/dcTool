@@ -1,0 +1,10 @@
+#!/bin/bash
+source ../.env
+
+prjName=$PROJECT_NAME
+cmd="docker-compose"
+dcFile="../docker/docker-compose.yml"
+
+set -x
+${cmd} -f ${dcFile} -p ${prjName} $@
+exit $?
