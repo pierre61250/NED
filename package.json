@@ -16,6 +16,9 @@
   ],
   "author": "Pierre COLLET",
   "license": "ISC",
+  "bin": {
+    "setup": "node index.js"
+  },
   "bugs": {
     "url": "https://github.com/pierre61250/NED/issues"
   },
