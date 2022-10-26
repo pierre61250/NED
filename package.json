@@ -1,5 +1,5 @@
 {
-  "name": "ned",
+  "name": "ned-toolkit",
   "version": "1.0.0",
   "type": "module",
   "description": "Toolkit qui permet de setup son projet (Node / Express / Docker)",
